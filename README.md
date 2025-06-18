@@ -42,5 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdgarMeMi&show_icons=true&theme=radical" alt="Edgar's GitHub stats"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 </p>
