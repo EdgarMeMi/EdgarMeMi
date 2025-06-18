@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,assembly,visualstudio,linux,git,vscode" alt="Lenguajes y Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,visualstudio,linux,git,vscode" alt="Lenguajes y Herramientas"/>
 </p>
 ---
 
