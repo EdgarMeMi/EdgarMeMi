@@ -20,11 +20,6 @@
   - **Web:** HTML, CSS.
   - **Bases de datos:** MySQL
   - **Herramientas:** Git & GitHub, Linux, Visual Studio Code
-- 📸 También tengo experiencia en:
-  - Fotografía
-  - Diseño gráfico
-  - Marketing digital
-  - Administración de un negocio propio
 - 🌱 Siempre con ganas de aprender y enfrentar nuevos retos
 
 ---
@@ -36,12 +31,3 @@
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil 🙌 <br>
-  ¡Estoy abierto a prácticas profesionales o cualquier oportunidad para aprender más!
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/bHA8KE7.gif" width="400" />
-
-</p>
