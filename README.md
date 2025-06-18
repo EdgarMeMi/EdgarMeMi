@@ -6,6 +6,9 @@
   🚀 Apasionado por la tecnología, la programación y el aprendizaje constante
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,postgresql,linux,git,vscode" alt="Lenguajes y Herramientas"/>
+</p>
 ---
 
 ### ✨ Sobre mí
