@@ -42,6 +42,6 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<img src="https://i.imgur.com/bHA8KE7.gif" width="400" />
 
 </p>
